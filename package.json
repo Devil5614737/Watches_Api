@@ -1,0 +1,16 @@
+{
+  "name": "watch_api",
+  "version": "1.0.0",
+  "description": "watch api",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "kaushik",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
