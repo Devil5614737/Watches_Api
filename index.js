@@ -171,6 +171,60 @@ const watches=[
             {gender:'Guys'},
         ]
     },
+    {
+        id:10,
+        name:'Wonder Woman Black Dial Leather Strap Watch',
+        price:"49.51",
+        image:'https://staticimg.titan.co.in/Fastrack/Catalog/6240KM01_1.jpg?pView=pdp',
+        desc:"For the Wonder woman fan in you, flaunt the perfect fashion accessory. Case dimension: 28.78X34.29X8.00, Water resistance: 3 ATM/30 m | Metal Strap | Stainless steel back cover | High precision quartz analogue movement | 2 years warranty period.",
+        quantity:1,
+        techSpecs:[
+            {brand:'fastrack'},
+            {waterResistant:'5ATM'},
+            {Collection:'Wondar Woman'},
+            {Warranty:'12 months warranty on the movement from the date of purchase.'},
+            {Movement:'Quartz'},
+            {strapMaterial:'Leather'},
+            {lockMechanism:'Buckle'},
+            {gender:'Girls'},
+        ]
+    },
+    {
+        id:11,
+        name:'Hulk from Avengers - End game',
+        price:"10.37",
+        image:'https://staticimg.titan.co.in/Fastrack/Catalog/9915PP87_1.jpg?pView=pdp',
+        desc:"No-one smashes better than the incredible Hulk! Inspired by the power-packed world of superheroes and featured proudly in Fastrack's End game collection, this black and green dial analog watch is everything the Avenger in you was dreaming of. Enclosed stylishly in a round plastic case is the modish dial paired amazingly with the black and green silicone strap having buckle lock for the ideal fit. Make it a part of your trendy collection or save it for occasions, this watch smashes your dull times just like the Hulk destroys the evil ones.",
+        quantity:1,
+        techSpecs:[
+            {brand:'fastrack'},
+            {waterResistant:'5ATM'},
+            {Collection:'Avengers End game'},
+            {Warranty:'6 months on the Movement and 12 months warranty on the Battery of the watch from the date of purchase.'},
+            {Movement:'Quartz'},
+            {strapMaterial:'Silicone'},
+            {lockMechanism:'Buckle'},
+            {gender:'Guys'},
+        ]
+    },
+    {
+        id:12,
+        name:'Coca-Cola Edition by Fastrack Silver Dial Red Nylon Strap Watch',
+        price:"25.37",
+        image:'https://staticimg.titan.co.in/Fastrack/Catalog/6256SP01_1.jpg?pView=pdp',
+        desc:"no description available",
+        quantity:1,
+        techSpecs:[
+            {brand:'fastrack'},
+            {waterResistant:'5ATM'},
+            {Collection:'Coca Cola Edition by Fastrack'},
+            {Warranty:'This watch offers 24 months warranty on the Movement and 12 months warranty on the Battery from the date of purchase.'},
+            {Movement:'Quartz'},
+            {strapMaterial:'Nylon'},
+            {lockMechanism:'Buckle'},
+            {gender:'Women'},
+        ]
+    },
 ]
 
 
